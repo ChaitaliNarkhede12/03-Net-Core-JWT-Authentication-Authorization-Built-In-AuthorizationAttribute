@@ -1,0 +1,9 @@
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\Chaitali-DemoProjects\NetCoreJWTAuth\Models\obj\Debug\netcoreapp3.1\Models.pdb
